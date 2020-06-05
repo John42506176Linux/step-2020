@@ -1,0 +1,46 @@
+
+.highlight{
+    color: black;
+    display: block;
+    font-weight: bold;
+    height:40%;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    width:30%;
+}
+span.header{
+    display:inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+    margin: 0 auto;
+    text-align: center;
+}
+.full-container{
+    margin: 0 auto;
+    text-align: center;
+}
+.slides{
+    height: auto;    
+    max-height: 100rem;
+    width: auto;
+}
+#container{
+    background-image: url("ComicCon.jpg");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    FONT-VARIANT: JIS78;
+    height:40%;
+    left:35%;
+    margin: 0 auto;
+    padding: 0 !important;
+    position: absolute;    
+    opacity: 0.4;
+    text-align: center;
+    width:30%;
+    z-index: -1;  
+}
